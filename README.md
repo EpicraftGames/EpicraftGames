@@ -2,5 +2,5 @@
 - 👀 We offer fun mini-games with varied playing times
 - 🌱 We use IntelliJ (IDE), MySQL and Redis (database)
 - 💞️ We seek to offer fun mini-games to all communities
-- 📫 How to reach me? On our Discord or our Twitter
+- 📫 How to reach us? On our Discord or our Twitter
 - ⚡ Fun fact: We're at 65% --> to open
